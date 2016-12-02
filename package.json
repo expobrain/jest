@@ -1,4 +1,6 @@
 {
+  "name": "jest",
+  "version" : "17.0.4-dev",
   "private": true,
   "devDependencies": {
     "babel-core": "^6.18.0",
